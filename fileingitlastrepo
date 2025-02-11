@@ -1,5 +1,9 @@
 1)lets try first edit from github after creating a file
 
 2)this is first try commit from bash
+<<<<<<< HEAD
 
 3)now maybe conflicts will arise as i did changes from hub and bash in same line 
+=======
+3) 3rd commit from hub
+>>>>>>> 0ecc34a0bf6350a7a29b7394f466523a257f61a2
